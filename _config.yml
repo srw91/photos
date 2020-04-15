@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://srw.photos/"
+baseurl: "https://srw91.github.io/photos/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
